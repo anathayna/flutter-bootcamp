@@ -1,6 +1,8 @@
 # 1st app
 
-A new Flutter project.
+My 1st Flutter project.
+
+https://github.com/user-attachments/assets/62c444af-e052-4be3-b6ff-46244f1fa91d
 
 ## Getting Started
 
@@ -14,7 +16,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-https://github.com/user-attachments/assets/62c444af-e052-4be3-b6ff-46244f1fa91d
 
 
