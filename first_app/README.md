@@ -1,4 +1,4 @@
-# 1st app
+# 1st app ✨
 
 My 1st Flutter project.
 
