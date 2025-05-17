@@ -2,7 +2,7 @@
 
 My 1st Flutter project.
 
-https://github.com/user-attachments/assets/62c444af-e052-4be3-b6ff-46244f1fa91d
+<img height="600" src="https://github.com/anathayna/flutter-bootcamp/blob/main/first_app/assets/gifs/first_app.gif">
 
 ## Getting Started
 
