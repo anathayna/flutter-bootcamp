@@ -1,4 +1,4 @@
 # Fortune Cookie 🥠
 
-https://github.com/user-attachments/assets/ed483f7b-2ef5-4622-a106-cd051833286f
+<img src="https://github.com/anathayna/flutter-bootcamp/blob/main/fortune_cookie/assets/gifs/fortune_cookie.gif">
 
